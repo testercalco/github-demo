@@ -1,2 +1,1 @@
 print("log")
-print("login")
